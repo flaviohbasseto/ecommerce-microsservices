@@ -1,0 +1,29 @@
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.deps.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfoInputs.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfo.cs
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CopyComplete
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.deps.json
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.AssemblyReference.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfoInputs.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.AssemblyInfo.cs
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.csproj.CopyComplete
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Application\obj\Debug\netcoreapp3.1\Ordering.Application.pdb

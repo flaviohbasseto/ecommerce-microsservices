@@ -1,0 +1,19 @@
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.deps.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfoInputs.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfo.cs
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.deps.json
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.csproj.AssemblyReference.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfoInputs.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.AssemblyInfo.cs
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\Ordering.Core\obj\Debug\netcoreapp3.1\Ordering.Core.pdb

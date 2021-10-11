@@ -1,0 +1,169 @@
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.csprojAssemblyReference.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.AssemblyInfoInputs.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.AssemblyInfo.cs
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.exe
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.deps.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.runtimeconfig.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.runtimeconfig.dev.json
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.csproj.CopyComplete
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\staticwebassets\OrderingAPI.StaticWebAssets.Manifest.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\staticwebassets\OrderingAPI.StaticWebAssets.xml
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.pdb
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.genruntimeconfig.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\flavi\Documents\Projects\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.exe
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.deps.json
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.runtimeconfig.json
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.runtimeconfig.dev.json
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\OrderingAPI.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Application.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Infrastructure.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Application.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.csproj.AssemblyReference.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.AssemblyInfoInputs.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.AssemblyInfo.cs
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\staticwebassets\OrderingAPI.StaticWebAssets.Manifest.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\staticwebassets\OrderingAPI.StaticWebAssets.xml
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderingAPI.styles.css
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.RazorTargetAssemblyInfo.cache
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.csproj.CopyComplete
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.dll
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.pdb
+D:\Nova pasta\Estudo\MicrosservicesAplication\src\Ordering\OrderingAPI\obj\Debug\netcoreapp3.1\OrderingAPI.genruntimeconfig.cache
